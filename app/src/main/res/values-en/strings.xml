@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleMathTest</string>
+    <string name="Enter">Enter</string>
+    <string name="Example">10 + 5 = ?</string>
+    <string name="Correct">Correct Answer!</string>
+    <string name="Incorrect">Sorry, this inccorect answer...</string>
+    <string name="Hint">Enter answer</string>
+</resources>

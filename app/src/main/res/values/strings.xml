@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleMathTest</string>
+    <string name="Enter">Ввод</string>
+    <string name="Example">10 + 5 = ?</string>
+    <string name="Correct">Правильный Ответ!</string>
+    <string name="Incorrect">Прости, это не правильный ответ...</string>
+    <string name="Hint">Введите ответ</string>
+</resources>
